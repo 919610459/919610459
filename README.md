@@ -1,4 +1,9 @@
 ### Hi there 👋
+* 🌱 I’m currently learning JAVA 
+* 💬 Ask me about my profession
+* 📫 How to reach me:tejaalaparthi4@gmail.com
+* 😄 Pronouns: teja
+
 
 <!--
 **919610459/919610459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
